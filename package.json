@@ -1,0 +1,19 @@
+{
+  "name": "three-js-noise-cube-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "threeSketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zishi-debug/week8--Three-js-noise-cube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zishi-debug/week8--Three-js-noise-cube/issues"
+  },
+  "homepage": "https://github.com/Zishi-debug/week8--Three-js-noise-cube#readme"
+}
